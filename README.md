@@ -12,8 +12,7 @@ I discovered my passion for coding after years of being curious about technology
 - 🔹 React
 - 🔹 PostgreSQL
 - 🔹 HTML5 / CSS3 / SCSS
-- 🔹 Git & GitHub
-
+- 🔹 Git
 ---
 
 ### 📚 Currently Learning
