@@ -19,6 +19,7 @@ Have a look at my projects!
 ### 📚 Currently Learning
 - ⚙️ API design & authentication
 - 🎓 Advanced JavaScript (via Udemy)
+- 🎓 Advanced CSS & SASS (via Udemy)
 - 🧠 System architecture & deployment basics
 
 ---
