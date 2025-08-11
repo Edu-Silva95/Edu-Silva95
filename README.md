@@ -27,6 +27,7 @@ Have a look at my projects!
 - [🔗 ShopListy](https://github.com/Edu-Silva95/ShopListy) – It's a fully operational grocery website filled with many features. It was my first solo project!
 - [🔗 Chefie](https://github.com/Edu-Silva95/Chefie) – My second solo project. It's a recipe website where users can share recipes learn new recipes. Also has many features (like, unlike, favorite recipes and video/courses, rate 1-5 stars recipes and video tutorials. Community page where users can have discussions (threads) as well as a feed page for chatting. A lot more!
 - [🔗 Natours](https://github.com/Edu-Silva95/Natours) – This is a little project made for an Advanced SCSS Course, made just with front-end purposes.
+- [🔗 Trillo Project](https://github.com/Edu-Silva95/Trillo-Project) – This is another project made for an Advanced SCSS Course, made just with front-end purposes.
 - [🔗 Clever-Fit](https://github.com/Mayakimm/clever-fit) – This was my first project ever made with colleagues for the Le Wagon bootcamp.
 
 ---
