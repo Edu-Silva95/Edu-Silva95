@@ -31,7 +31,8 @@ Have a look at my projects!
 - [🔗 Trillo Project](https://github.com/Edu-Silva95/Trillo-Project) – This is another project made for an Advanced SCSS Course, made just with front-end purposes.
 - [🔗 Nexter](https://github.com/Edu-Silva95/Nexter) – The last project for the Advanced SCSS Course!
 - [🔗 Clever-Fit](https://github.com/Mayakimm/clever-fit) – This was my first project ever made with colleagues for the Le Wagon bootcamp.
-- [🔗 React Essentials](https://github.com/Edu-Silva95/React-Essentials) – My first React project made with and for - "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course.
+- [🔗 React Essentials](https://github.com/Edu-Silva95/React-Essentials) – My first introduction React project made with and for - "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course.
+- [🔗 Tic-Tac-Toe](https://github.com/Edu-Silva95/Tic-Tac-Toe) – My first real react project. A classic Tic-Tac-Toe game, made using React. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
 
 ---
 
