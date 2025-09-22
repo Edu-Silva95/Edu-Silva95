@@ -33,7 +33,7 @@ Have a look at my projects!
 - [🔗 Clever-Fit](https://github.com/Mayakimm/clever-fit) – This was my first project ever made with colleagues for the Le Wagon bootcamp.
 - [🔗 React Essentials](https://github.com/Edu-Silva95/React-Essentials) – My first introduction React project made with and for - "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course.
 - [🔗 Tic-Tac-Toe](https://github.com/Edu-Silva95/Tic-Tac-Toe) – My first real React project. A classic Tic-Tac-Toe game, made using React. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
-
+- [🔗 Investment Calculator](https://github.com/Edu-Silva95/Investment-Calculator) – A simple Investment Calculator, made using React. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
 ---
 
 ### 🌍 Let's Connect
