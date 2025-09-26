@@ -3,6 +3,8 @@
 I'm a **full-stack web developer** - focused on creating clean, responsive, and user-friendly web applications.
 
 I discovered my passion for coding after years of being curious about technology. I took the leap and graduated from the **Le Wagon bootcamp**, and I've been learning and building ever since!
+Currently doing some more courses and project that I will be mentioned here!
+
 Have a look at my projects!
 
 ---
@@ -13,13 +15,13 @@ Have a look at my projects!
 - 🔹 React
 - 🔹 PostgreSQL
 - 🔹 HTML5 / CSS3 / SCSS
+- 🔹 Tailwind
 - 🔹 Git
 ---
 
 ### 📚 Currently Learning
 - ⚙️ API design & authentication
 - 🎓 Advanced JavaScript/React/NextJS/Redux (via Udemy)
-- 🎓 Advanced CSS & SASS (via Udemy)
 - 🧠 System architecture & deployment basics
 
 ---
@@ -34,6 +36,8 @@ Have a look at my projects!
 - [🔗 React Essentials](https://github.com/Edu-Silva95/React-Essentials) – My first introduction React project made with and for - "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course.
 - [🔗 Tic-Tac-Toe](https://github.com/Edu-Silva95/Tic-Tac-Toe) – My first real React project. A classic Tic-Tac-Toe game, made using React. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
 - [🔗 Investment Calculator](https://github.com/Edu-Silva95/Investment-Calculator) – A simple Investment Calculator, made using React. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
+- [🔗 ReactArt](https://github.com/Edu-Silva95/ReactArt) – A project that introduced me into TailwindCSS. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
+
 ---
 
 ### 🌍 Let's Connect
