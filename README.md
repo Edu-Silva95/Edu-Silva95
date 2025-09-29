@@ -37,6 +37,7 @@ Have a look at my projects!
 - [🔗 Tic-Tac-Toe](https://github.com/Edu-Silva95/Tic-Tac-Toe) – My first real React project. A classic Tic-Tac-Toe game, made using React. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
 - [🔗 Investment Calculator](https://github.com/Edu-Silva95/Investment-Calculator) – A simple Investment Calculator, made using React. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
 - [🔗 ReactArt](https://github.com/Edu-Silva95/ReactArt) – A project that introduced me into TailwindCSS. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
+- [🔗 The Almost Final Countdown](https://github.com/Edu-Silva95/The-Almost-Final-Countdown) –A small React project, The Almost Final Countdown, is a game that expects the user to be able to stop the timer as close as possible to the time challenge. Built during the lectures for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course
 
 ---
 
