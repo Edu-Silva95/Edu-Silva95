@@ -3,7 +3,7 @@
 I'm a **full-stack web developer** - focused on creating clean, responsive, and user-friendly web applications.
 
 I discovered my passion for coding after years of being curious about technology. I took the leap and graduated from the **Le Wagon bootcamp**, and I've been learning and building ever since!
-Currently doing some more courses and project that I will be mentioned here!
+Currently doing some more courses and projects that will be mentioned here!
 
 Have a look at my projects!
 
