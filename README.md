@@ -13,6 +13,7 @@ Have a look at my projects!
 - 🔹 Ruby on Rails
 - 🔹 JavaScript / ES6
 - 🔹 React
+- 🔹 Node.js
 - 🔹 PostgreSQL
 - 🔹 HTML5 / CSS3 / SCSS
 - 🔹 Tailwind
