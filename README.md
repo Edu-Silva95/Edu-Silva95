@@ -15,8 +15,8 @@ Have a look at my projects!
 - 🔹 React
 - 🔹 Node.js
 - 🔹 PostgreSQL
-- 🔹 HTML5 / CSS3 / SCSS
-- 🔹 Tailwind
+- 🔹 HTML / HTML5
+- 🔹 CSS / SCSS / Tailwind
 - 🔹 Git
 ---
 
