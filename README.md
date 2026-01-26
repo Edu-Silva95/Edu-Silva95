@@ -1,11 +1,12 @@
 # 👋 Hi, I'm Eduardo Malta Silva
 
-I'm a **full-stack web developer** - focused on creating clean, responsive, and user-friendly web applications.
+I'm a **Full-Stack Web Developer** - Focused on creating clean, responsive, and user-friendly web applications.
 
-I discovered my passion for coding after years of being curious about technology. I took the leap and graduated from the **Le Wagon bootcamp**, and I've been learning and building ever since!
-Currently doing some more courses and projects that will be mentioned here!
+I discovered my passion for coding after years of being curious about technology. After graduating in Hotel Management from college and working a few years in the industy, I took the leap, signed up & graduated from the **Le Wagon Bootcamp**, and I've been learning and building ever web apps since!
 
-Have a look at my projects!
+Currently doing some more courses @Udemy (Advanced SCSS, React.js, Node.js, TypeScript, Metadata) so I can further develop my skills!
+
+I already have a few projects made! Have a look! 👀
 
 ---
 
@@ -22,7 +23,7 @@ Have a look at my projects!
 
 ### 📚 Currently Learning
 - ⚙️ API design & authentication
-- 🎓 Advanced JavaScript/React/NextJS/Redux (via Udemy)
+- 🎓 Advanced JavaScript/React/NextJS/Redux (@Udemy)
 - 🧠 System architecture & deployment basics
 
 ---
