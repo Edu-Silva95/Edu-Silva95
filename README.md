@@ -41,7 +41,7 @@ I already have a few projects made! Have a look! 👀
 
 ### 🌍 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-eduardo-malta-silva-8206261b0/)  
-- [Portfolio] (https://www.eduardomaltasilva.com) (Under Development)  
+- [Portfolio](https://www.eduardomaltasilva.com) (Under Development)  
 - 📫 Reach me at: **joaomalta4@hotmail.com**
 
 ---
