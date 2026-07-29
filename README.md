@@ -1,52 +1,250 @@
 # 👋 Hi, I'm Eduardo Malta Silva
 
-I'm a **Full-Stack Web Developer** - Focused on creating clean, responsive, and user-friendly web applications.
+<h3 align="center">
+Full-Stack Web Developer passionate about building modern, responsive, and user-friendly web applications.
+</h3>
 
-I discovered my passion for coding after years of being curious about technology. After graduating in Hotel Management from college and working a few years in the industy, I took the leap, signed up & graduated from the **Le Wagon Bootcamp**, and I've been learning and building ever web apps since!
-
-Currently doing some more courses @Udemy (Advanced SCSS, React.js, Node.js, TypeScript, Metadata) so I can further develop my skills!
-
-I already have a few projects made! Have a look! 👀
-
----
-
-### 💻 Tech Stack
-- 🔹 Ruby on Rails
-- 🔹 JavaScript / ES6
-- 🔹 React
-- 🔹 Node.js
-- 🔹 PostgreSQL
-- 🔹 HTML / HTML5
-- 🔹 CSS / SCSS / Tailwind
-- 🔹 Git
----
-
-### 📚 Currently Learning
-- ⚙️ API design & authentication
-- 🎓 Advanced JavaScript/React/NextJS/Redux (@Udemy)
-- 🧠 System architecture & deployment basics
+<p align="center">
+  <a href="https://www.eduardomaltasilva.com">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/jo%C3%A3o-eduardo-malta-silva-8206261b0/">LinkedIn</a> •
+  <a href="mailto:joaomalta4@hotmail.com">Email</a>
+</p>
 
 ---
 
-### 🛠️ Projects I'm Proud Of
-- [🔗 Portfolio](https://github.com/Edu-Silva95/Portfolio) – My portfolio, a desktop experience where the user navigates the page as if it was a desktop/OS! - **Deployed**
-- [🔗 ShopListy](https://github.com/Edu-Silva95/ShopListy) – It's a fully operational grocery website filled with many features. It was my first solo project! - **Deployed**
-- [🔗 Chefie](https://github.com/Edu-Silva95/Chefie) – My second solo project. It's a recipe website where users can share recipes learn new recipes. Also has many features (like, unlike, favorite recipes and video/courses, rate 1-5 stars recipes and video tutorials. Community page where users can have discussions (threads) as well as a feed page for chatting. A lot more! - **Deployed**
-- [🔗 SuperSimpleList](https://github.com/Edu-Silva95/Super-Simple-List) – It's a small grocery list web app where I practiced with TypeScript. - **Deployed**
-- [🔗 ScamStop](https://github.com/Edu-Silva95/ScamStop) - This is a website that can help you figure out if a potential scam link or legit one. It searches for lookalike/typos/urgency in text and even checks the URLhaus db for the link provided. Made to help you decide, and not decide for you!
-- [🔗 Project Manager](https://github.com/Edu-Silva95/Project-Manager) – A small project I made solo as challenge that was made by the tutor for "React - The Complete Guide 2025 (incl. Next.js, Redux)" - Udemy Course, fully working and styled.
-- [🔗 Foodie](https://github.com/Edu-Silva95/Foodie) – I made this project as a challenge made by the tutor to try to build a food order app on ourselves. Fully working using React and Node.js, I tried to apply all the knowledge from all the lectures. There is a Featured section, a Reorder section and then the main section with all the dishes. Added a navbar for easy user friendly interface.
-- [🔗 Clever-Fit](https://github.com/Mayakimm/clever-fit) – This was my first project ever made with colleagues for the Le Wagon bootcamp.
+## 👨‍💻 About Me
+
+I'm a **Full-Stack Web Developer** with a passion for creating clean, scalable, and intuitive web applications.
+
+After graduating in **Hotel Management** and spending several years in the hospitality industry, I decided to pursue my passion for technology. I graduated from the **Le Wagon Full-Stack Web Development Bootcamp** and have continued improving my skills by building real-world projects and completing advanced courses in **React, TypeScript, Node.js, SCSS, and modern web development**.
+
+I enjoy solving real-world problems, learning new technologies, and continuously improving as a developer.
 
 ---
 
-### 🌍 Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-eduardo-malta-silva-8206261b0/)  
-- [Portfolio](https://www.eduardomaltasilva.com) (Under Development)  
-- 📫 Reach me at: **joaomalta4@hotmail.com**
+## 🚀 Tech Stack
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend
+
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-00979D?style=for-the-badge&logo=render&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 
 ---
 
-_Thanks for stopping by!_
+## 📚 Currently Learning
 
-![Eduardo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Edu-Silva95&show_icons=true&theme=tokyonight)
+- ⚡ Advanced React
+- ⚡ Next.js
+- ⚡ Redux
+- ⚡ API Design & Authentication
+- ⚡ System Design
+- ⚡ Deployment & DevOps Fundamentals
+- ⚡ AI integrations using Gemini API
+
+---
+
+# ⭐ Featured Projects
+
+## 🖥️ Portfolio
+
+**Desktop-inspired portfolio experience**
+
+An interactive portfolio that simulates a desktop operating system where visitors explore projects through a familiar desktop interface.
+
+🔗 Repository  
+https://github.com/Edu-Silva95/Portfolio
+
+🌐 Live Demo  
+https://www.eduardomaltasilva.com
+
+---
+
+## 🛒 ShopListy
+
+My first complete solo full-stack application.
+
+Features include:
+
+- Authentication
+- Shopping lists
+- Product database
+- Friends system
+- Live chat
+- Geolocation
+- Nearby supermarkets
+- Responsive design
+
+🔗 Repository  
+https://github.com/Edu-Silva95/ShopListy
+
+---
+
+## 🍳 Chefie
+
+A community-driven cooking platform where users can:
+
+- Share recipes
+- Rate recipes
+- Like & favorite content
+- Watch cooking videos
+- Join community discussions
+- Chat with other users
+- Follow cooking courses
+
+🔗 Repository  
+https://github.com/Edu-Silva95/Chefie
+
+---
+
+## 🛡️ ScamStop
+
+An assisted phishing detection tool that helps users determine whether a URL looks suspicious.
+
+Features include:
+
+- URLHaus database lookup
+- Typosquatting detection
+- Suspicious wording analysis
+- Urgency detection
+- Lookalike domain detection
+
+The goal is to **help users make informed decisions—not make decisions for them.**
+
+🔗 Repository  
+https://github.com/Edu-Silva95/ScamStop
+
+---
+
+## 💰 AI Expense Tracker *(Currently Developing)*
+
+A modern expense tracker powered by **Google Gemini AI**.
+
+Current features include:
+
+- AI expense categorization
+- Smart merchant recognition
+- Monthly statistics
+- Dashboard
+- Expense management
+- PostgreSQL database
+- Node.js REST API
+- React + TypeScript frontend
+
+---
+
+## 📝 Super Simple List
+
+A lightweight grocery list application built using **React + TypeScript**.
+
+Created to strengthen my TypeScript knowledge while focusing on clean architecture and responsive UI.
+
+🔗 Repository
+
+https://github.com/Edu-Silva95/Super-Simple-List
+
+---
+
+## 📋 Project Manager
+
+A project management application built during Maximilian Schwarzmüller's React course.
+
+Demonstrates:
+
+- Component architecture
+- State management
+- Modern React practices
+- Responsive design
+
+🔗 Repository
+
+https://github.com/Edu-Silva95/Project-Manager
+
+---
+
+## 🍔 Foodie
+
+A React & Node.js food ordering application featuring:
+
+- Featured meals
+- Reorder functionality
+- Shopping cart
+- Responsive UI
+- REST API backend
+
+🔗 Repository
+
+https://github.com/Edu-Silva95/Foodie
+
+---
+
+## 👥 Clever-Fit
+
+The very first project I built as part of the **Le Wagon Bootcamp**, collaborating with fellow developers.
+
+🔗 Repository
+
+https://github.com/Mayakimm/clever-fit
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-Silva95&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Silva95&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-Silva95&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌍 Contacts
+
+📧 **Email**
+
+**joaomalta4@hotmail.com**
+
+💼 **LinkedIn**
+
+https://www.linkedin.com/in/jo%C3%A3o-eduardo-malta-silva-8206261b0/
+
+🌐 **Portfolio**
+
+https://www.eduardomaltasilva.com
+
+---
+
+<p align="center">
+  Thanks for visiting my profile! ⭐ Feel free to explore my repositories!
+</p>
