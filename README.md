@@ -67,165 +67,21 @@ I enjoy solving real-world problems, learning new technologies, and continuously
 
 ---
 
-# ⭐ Featured Projects
+## 🌟 Featured Work
 
-## 🖥️ Portfolio
+Check out my pinned repositories below, including:
 
-**Desktop-inspired portfolio experience**
-
-An interactive portfolio that simulates a desktop operating system where visitors explore projects through a familiar desktop interface.
-
-🔗 Repository  
-https://github.com/Edu-Silva95/Portfolio
-
-🌐 Live Demo  
-https://www.eduardomaltasilva.com
+- 🖥️ Portfolio – Desktop-inspired portfolio experience
+- 🛒 ShopListy – Full-stack grocery management platform
+- 🍳 Chefie – Community recipe sharing platform
+- 🛡️ ScamStop – Phishing and scam detection tool
+- 💰 AI Expense Tracker – AI-powered expense management (in development)
 
 ---
 
-## 🛒 ShopListy
+## 💼 What I'm Looking For
 
-My first complete solo full-stack application.
-
-Features include:
-
-- Authentication
-- Shopping lists
-- Product database
-- Friends system
-- Live chat
-- Geolocation
-- Nearby supermarkets
-- Responsive design
-
-🔗 Repository  
-https://github.com/Edu-Silva95/ShopListy
-
----
-
-## 🍳 Chefie
-
-A community-driven cooking platform where users can:
-
-- Share recipes
-- Rate recipes
-- Like & favorite content
-- Watch cooking videos
-- Join community discussions
-- Chat with other users
-- Follow cooking courses
-
-🔗 Repository  
-https://github.com/Edu-Silva95/Chefie
-
----
-
-## 🛡️ ScamStop
-
-An assisted phishing detection tool that helps users determine whether a URL looks suspicious.
-
-Features include:
-
-- URLHaus database lookup
-- Typosquatting detection
-- Suspicious wording analysis
-- Urgency detection
-- Lookalike domain detection
-
-The goal is to **help users make informed decisions—not make decisions for them.**
-
-🔗 Repository  
-https://github.com/Edu-Silva95/ScamStop
-
----
-
-## 💰 AI Expense Tracker *(Currently Developing)*
-
-A modern expense tracker powered by **Google Gemini AI**.
-
-Current features include:
-
-- AI expense categorization
-- Smart merchant recognition
-- Monthly statistics
-- Dashboard
-- Expense management
-- PostgreSQL database
-- Node.js REST API
-- React + TypeScript frontend
-
----
-
-## 📝 Super Simple List
-
-A lightweight grocery list application built using **React + TypeScript**.
-
-Created to strengthen my TypeScript knowledge while focusing on clean architecture and responsive UI.
-
-🔗 Repository
-
-https://github.com/Edu-Silva95/Super-Simple-List
-
----
-
-## 📋 Project Manager
-
-A project management application built during Maximilian Schwarzmüller's React course.
-
-Demonstrates:
-
-- Component architecture
-- State management
-- Modern React practices
-- Responsive design
-
-🔗 Repository
-
-https://github.com/Edu-Silva95/Project-Manager
-
----
-
-## 🍔 Foodie
-
-A React & Node.js food ordering application featuring:
-
-- Featured meals
-- Reorder functionality
-- Shopping cart
-- Responsive UI
-- REST API backend
-
-🔗 Repository
-
-https://github.com/Edu-Silva95/Foodie
-
----
-
-## 👥 Clever-Fit
-
-The very first project I built as part of the **Le Wagon Bootcamp**, collaborating with fellow developers.
-
-🔗 Repository
-
-https://github.com/Mayakimm/clever-fit
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edu-Silva95&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edu-Silva95&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Edu-Silva95&theme=tokyonight"/>
-
-</p>
+I'm currently looking for opportunities as a Full-Stack Web Developer where I can contribute to real-world projects, continue learning, and grow alongside an experienced team.
 
 ---
 
