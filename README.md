@@ -81,7 +81,7 @@ Check out my pinned repositories below, including:
 
 ## 💼 What I'm Looking For
 
-I'm currently looking for opportunities as a Full-Stack Web Developer where I can contribute to real-world projects, continue learning, and grow alongside an experienced team.
+I'm currently looking for opportunities as a Front-End or Full-Stack Web Developer where I can contribute to real-world projects, continue learning, and grow alongside an experienced team.
 
 ---
 
